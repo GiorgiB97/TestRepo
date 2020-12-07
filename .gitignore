@@ -1,0 +1,4 @@
+mustbeignored/thisisignored/*
+!mustbeignored/thisisnotignored/*
+src/*
+!src/smth.txt
